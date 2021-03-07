@@ -1,4 +1,5 @@
 #Technical assessment for Deputy
+
 This is a minimal command line application developed according to the provided requirements.
 
 ### Installation/Prerequisites
