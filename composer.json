@@ -1,0 +1,17 @@
+{
+    "name": "therosco/deputy",
+    "description": "A technical interview exercise",
+    "type": "project",
+    "require": {
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Deputy\\": "src/",
+            "Tests\\": "tests/"
+        }
+    }
+}
